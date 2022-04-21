@@ -5,7 +5,7 @@
 * Realiza una gestión eficiente de la memoria.
 * Distribuye la memoria en dos zonas: stack (pila) y heap (montón)
 
-![RAM](ram.jpeg "RAM")
+![RAM](/modelo/ram.jpeg "RAM")
 
 ### Stack
 * Se almacenan: variables locales, llamadas a métodos (parámetros y resultados), variables primitivas, referencias a objetos del heap.
