@@ -11,6 +11,8 @@ public class Punto
     //---------
     //Metodos
     //---------
+
+    //Constructor
     public Punto(int x, int y)
     {
         this.x = x;
